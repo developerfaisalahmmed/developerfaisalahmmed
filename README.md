@@ -12,9 +12,6 @@ Skills: Html,css,bootstrap  javascript, ajax,json,xml,php,laravel, api developme
 
 Contact : developerfaisal32@gmail.com
 
-- 🔭 I’m currently working on ektechnologygroup of company 
-- 🌱 I’m currently learning React Js 
-- 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Application Development 
 
 
