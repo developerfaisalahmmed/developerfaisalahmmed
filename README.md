@@ -6,9 +6,10 @@ Hello!
 
 Thanks for visiting my profile.
 
-I am a Junior Web Application Developer. I have 2+ years experience with great knowledge in Web application development by PHP LARAVEL . I am a hardworking , highly proficient Web Application Development Expert .
+I am a  Web Application Developer. I have 2+ years experience with great knowledge in Web application development by PHP LARAVEL . I am a hardworking , highly proficient Web Application Development Expert .
 
 Skills: Html,css,bootstrap  javascript, ajax,json,xml,php,laravel, api development, react(basic),nodejs(basic)
+
 Contact : developerfaisal32@gmail.com
 
 - 🔭 I’m currently working on ektechnologygroup of company 
